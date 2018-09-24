@@ -6,23 +6,28 @@ something about your goals here
 
 ## Progress
 
-Current Course:     
-Courses Completed: 0  
-Total Points earned: 
+Current Course: Manage your code with Git and Github, The Complete JavaScript Course 2018      
+Courses Completed: 1
+Current Book: You Don't Know JS: Scope & Closures
+Books read: 1
+Total Points earned: 300 
 
 | Date Finished | Activity                  | Points | Links  |           
 | ------------- | ------------------------- | ------ | ------------------------------------------- |
 |  |  |  |  |
 
 
-## Web Dev with Computer Science
+## OpenClassrooms Front End Path + own resources, Computer Science + own resources 
 
 
 
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+* [X] Course: [Manage your code project](https://openclassrooms.com/en/courses/4055461-manage-your-code-project)
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
+* [ ] Course: [The Complete JavaScript Course 2018](https://www.udemy.com/the-complete-javascript-course/)
+* [ ] Course: [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
@@ -46,7 +51,7 @@ Total Points earned:
 
 ## Book Suggestions
 
-* [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+* [X] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 * [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
@@ -68,13 +73,17 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 
 | Activity                                    | Points for completing | Activity type |
 | ------------------------------------------- | --------------------- | ------------- |
+| OpenClassrooms Project 1-3                  | 100                   | project       |
+| OpenClassrooms Project 4                    | 150                   | project       |
+| OpenClassrooms Project 5                    | 200                   | project       |
+| OpenClassrooms Project 6-7-8                | 300                   | project       |
 | Basic Project                               | 100                   | project       |
 | Substantial Project                         | 200                   | project       |
 | Large Project                               | 300                   | project       |
 | Gigantic Project                            | 400                   | project       |
 | Duolingo or flashcards (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
-| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
+| Tutorial site (OC,Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
 | Physical Activity (30 minutes)                          | 10                    | foundation    |
 | Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
