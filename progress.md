@@ -6,11 +6,11 @@ something about your goals here
 
 ## Progress
 
-Current Course: **Manage your code with Git and Github, The Complete JavaScript Course 2018** 
+Current Course: [**Manage your code with Git and Github**](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github),  [**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/)
 
 Courses Completed: **1**
 
-Current Book: **You Don't Know JS - Scope & Closure**
+Current Book: [**You Don't Know JS: Scope & Closures**](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 
 Books read: **1**
 
