@@ -6,15 +6,24 @@ something about your goals here
 
 ## Progress
 
-Current Course: Manage your code with Git and Github, The Complete JavaScript Course 2018      
-Courses Completed: 1
-Current Book: You Don't Know JS: Scope & Closures
-Books read: 1
-Total Points earned: 300 
+Current Course: Manage your code with Git and Github, The Complete JavaScript Course 2018 
 
-| Date Finished | Activity                  | Points | Links  |           
-| ------------- | ------------------------- | ------ | ------------------------------------------- |
-|  |  |  |  |
+Courses Completed: 1
+
+Current Book: You Don't Know JS - Scope & Closure
+
+Books read: 1
+
+Total Points earned: 300
+
+| Date Finished | Activity              | Points | Links  |           
+| ------------- | ----------------------| ------ | ------------------------------------------- |
+|  08.08.2018   | YDKJS Up's and Going  |  200   |                                             |
+|  10.09.2018   | Manage your code project | 100       | [OpenClassrooms](https://openclassrooms.com/en/courses/4055461-manage-your-code-project) |
+|     |            |        |                                             |
+|     |           |        |                                             |
+|     |            |        |                                             |
+|     |            |        |                                             |
 
 
 ## OpenClassrooms Front End Path + own resources, Computer Science + own resources 
