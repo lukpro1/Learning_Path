@@ -6,15 +6,15 @@ something about your goals here
 
 ## Progress
 
-Current Course: Manage your code with Git and Github, The Complete JavaScript Course 2018 
+Current Course: **Manage your code with Git and Github, The Complete JavaScript Course 2018** 
 
-Courses Completed: 1
+Courses Completed: **1**
 
-Current Book: You Don't Know JS - Scope & Closure
+Current Book: **You Don't Know JS - Scope & Closure**
 
-Books read: 1
+Books read: **1**
 
-Total Points earned: 300
+Total Points earned: **300**
 
 | Date Finished | Activity              | Points | Links  |           
 | ------------- | ----------------------| ------ | ------------------------------------------- |
