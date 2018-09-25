@@ -14,7 +14,7 @@ Current Book: [**You Don't Know JS: Scope & Closures**](https://github.com/getif
 
 Books read: **1**
 
-Total Points earned: **300**
+Total Points earned: **400**
 
 | Date Finished | Activity              | Points | Links  |           
 | ------------- | ----------------------| ------ | ------------------------------------------- |
