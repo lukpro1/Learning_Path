@@ -116,7 +116,7 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | Google Code Jam (1 round from past contest) | 100                   | algorithms    |
 
 ## Project ideas
-__For now I focusing only on OpenClassroms projects but during my Web Development carrier I will do some of projects from list below__
+__For now I focusing only on OpenClassroms projects but during my Web Development carrier I will make some of projects from list below__
 
 * [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 * [ ] Project: Portfolio from the frontend section of FCC
