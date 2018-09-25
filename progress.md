@@ -6,7 +6,7 @@ something about your goals here
 
 ## Progress
 
-Current Course: [**Manage your code with Git and Github**](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github),  [**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/)
+Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  [**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/)
 
 Courses Completed: **1**
 
@@ -35,8 +35,9 @@ Total Points earned: **300**
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [X] Course: [Manage your code project](https://openclassrooms.com/en/courses/4055461-manage-your-code-project)
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
+* [ ] Course: [Map out your project with UML](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml)
 * [ ] Course: [The Complete JavaScript Course 2018](https://www.udemy.com/the-complete-javascript-course/)
-* [ ] Course: [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)
+* [X] Course: [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
