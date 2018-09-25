@@ -93,7 +93,7 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 | Gigantic Project                            | 400                   | project       |
 | Duolingo or flashcards (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
-| Tutorial site (OC,Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
+| Tutorial site (OC,Udemy/W3Schools/Pluralsight/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
 | Physical Activity (30 minutes)                          | 10                    | foundation    |
 | Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
