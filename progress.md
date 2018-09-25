@@ -1,8 +1,8 @@
 # Progress towards my learning goals
 
-## 2018
+## 2018/2019
 
-something about your goals here
+This is my progress tracker which will help for me to get my goals of Web Developer. Currently I'm focusing mostly on OpenClassroms Front-End Developer Path but to have all projects done properly and increase my CS knowledge I included some more resources to learn.
 
 ## Progress
 
