@@ -18,9 +18,9 @@ Total Points earned: **300**
 
 | Date Finished | Activity              | Points | Links  |           
 | ------------- | ----------------------| ------ | ------------------------------------------- |
-|  08.08.2018   | YDKJS Up's and Going  |  200   |                                             |
-|  10.09.2018   | Manage your code project | 100       | [OpenClassrooms](https://openclassrooms.com/en/courses/4055461-manage-your-code-project) |
-|     |            |        |                                             |
+|  08.08.2018   | Book  |  200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
+|  10.09.2018   | Tutorial site | 100 | [Manage your code project](https://openclassrooms.com/en/courses/4055461-manage-your-code-project) |
+| 25.09.2018    | Tutorial site | 100 | [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)                                            |
 |     |           |        |                                             |
 |     |            |        |                                             |
 |     |            |        |                                             |
