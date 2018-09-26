@@ -33,7 +33,6 @@ Total Points earned: **400**
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 * [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
-* [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 
 
 ### JavaScript
@@ -47,6 +46,7 @@ Total Points earned: **400**
 * [ ] Course: [Learn Git Branching](https://learngitbranching.js.org/)
 ### Computer Science
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
+* [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Course: [Map out your project with UML](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
