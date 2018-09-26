@@ -19,7 +19,7 @@ My goal is to see how many points I can rack up by December 31, 2019.
 
 | Activity                                    | Points for completing | Activity type |
 | ------------------------------------------- | --------------------- | ------------- |
-| OpenClassrooms Project 1-3                  | 100                   | project       |
+| OpenClassrooms Project 2-3                  | 100                   | project       |
 | OpenClassrooms Project 4                    | 150                   | project       |
 | OpenClassrooms Project 5                    | 200                   | project       |
 | OpenClassrooms Project 6-7-8                | 300                   | project       |
