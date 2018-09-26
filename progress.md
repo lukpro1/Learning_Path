@@ -8,7 +8,7 @@ This is my learning tracker which will help for me to get my goals of Web Develo
 
 Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  [**JavaScript-The Hard Parts**](https://frontendmasters.com/courses/javascript-hard-parts/)
 
-Courses Completed: **1**
+Courses Completed: **2**
 
 Current Book: [**You Don't Know JS: Scope & Closures**](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 
