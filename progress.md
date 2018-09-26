@@ -6,7 +6,7 @@ This is my learning tracker which will help for me to get my goals of Web Develo
 
 ## Progress
 
-Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  [**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/)
+Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  [**JavaScript-The Hard Parts**](https://frontendmasters.com/courses/javascript-hard-parts/)
 
 Courses Completed: **1**
 
@@ -29,22 +29,30 @@ Total Points earned: **400**
 ## OpenClassrooms Front End Path + own resources, Computer Science + own resources 
 
 
-
+### HTML & CSS
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
-* [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
-* [X] Course: [Manage your code project](https://openclassrooms.com/en/courses/4055461-manage-your-code-project)
+* [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
+* [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+
+
+### JavaScript
+* [ ] Course: [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
+* [ ] Course: [JavaScript-The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/)
+* [ ] Course: [The Complete JavaScript Course 2018](https://www.udemy.com/the-complete-javascript-course/)
+* [ ] Course: [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/)
+* [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
+### Version Control
+* [X] Course: [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)
+* [ ] Course: [Learn Git Branching](https://learngitbranching.js.org/)
+### Computer Science
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 * [ ] Course: [Map out your project with UML](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml)
-* [ ] Course: [The Complete JavaScript Course 2018](https://www.udemy.com/the-complete-javascript-course/)
-* [X] Course: [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)
-* [ ] Course: [Getting Sassy with CSS](http://www.sassshop.com/#/)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 * [ ] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
-* [ ] Course: [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x) on edX or [M101JS: MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about) on MongoDB University (or both, your choice)
 * [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
 * [ ] Course: [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 * [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
@@ -58,6 +66,8 @@ Total Points earned: **400**
 * [ ] Course: [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 * [ ] Course: [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
 * [ ] Course: [Machine Learning](https://www.coursera.org/learn/machine-learning)
+### Others
+* [X] Course: [Manage your code project](https://openclassrooms.com/en/courses/4055461-manage-your-code-project)
 
 ## Book Suggestions
 
