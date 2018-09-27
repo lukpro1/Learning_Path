@@ -6,7 +6,7 @@ This is my learning tracker which will help for me to get my goals of Web Develo
 
 ## Progress
 
-Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  [**JavaScript-The Hard Parts**](https://frontendmasters.com/courses/javascript-hard-parts/)
+Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  [**JavaScript: From Fundamentals to Functional JS, v2**](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
 
 Courses Completed: **2**
 
