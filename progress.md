@@ -10,18 +10,18 @@ Current Course: [**Map out your project with UML**](https://openclassrooms.com/e
 
 Courses Completed: **2**
 
-Current Book: [**You Don't Know JS: Scope & Closures**](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+Current Book: [**You Don't Know JS: this & Object Prototypes**](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
-Books read: **1**
+Books read: **2**
 
-Total Points earned: **400**
+Total Points earned: **600**
 
 | Date Finished | Activity              | Points | Links  |           
 | ------------- | ----------------------| ------ | ------------------------------------------- |
 |  08.08.2018   | Book  |  200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
 |  10.09.2018   | Tutorial site | 100 | [Manage your code project](https://openclassrooms.com/en/courses/4055461-manage-your-code-project) |
 | 25.09.2018    | Tutorial site | 100 | [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)                                            |
-|     |           |        |                                             |
+|26.09.2018     | Book          |  200      |  [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)      |
 |     |            |        |                                             |
 |     |            |        |                                             |
 
@@ -72,7 +72,7 @@ Total Points earned: **400**
 ## Book Suggestions
 
 * [X] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-* [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+* [X] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Book: [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
 * [ ] Book: [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
