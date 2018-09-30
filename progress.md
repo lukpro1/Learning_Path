@@ -86,7 +86,10 @@ Total Points earned: **600**
 * [ ] Book: [Open Data Structures](http://www.aupress.ca/books/120226/ebook/99Z_Morin_2013-Open_Data_Structures.pdf)
 * [ ] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [ ] Book: [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) 
+* [ ] Book: Git Version Control Cookbook by Kenneth Geisshirt
 
+### Self-help books
+* [ ] Book: The Art of Stopping Time : Practical Mindfulness for Busy People 
 Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/master/book-lists.md)
 
 ## Bonus List
