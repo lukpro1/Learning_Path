@@ -6,23 +6,23 @@ This is my learning tracker which will help for me to get my goals of Web Develo
 
 ## Progress
 
-Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  [**JavaScript: From Fundamentals to Functional JS, v2**](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
+Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),  
 
-Courses Completed: **2**
+Courses Completed: **3**
 
 Current Book: [**You Don't Know JS: this & Object Prototypes**](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
 Books read: **2**
 
-Total Points earned: **600**
+Total Points earned: **700**
 
 | Date Finished | Activity              | Points | Links  |           
 | ------------- | ----------------------| ------ | ------------------------------------------- |
 |  08.08.2018   | Book  |  200   | [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
 |  10.09.2018   | Tutorial site | 100 | [Manage your code project](https://openclassrooms.com/en/courses/4055461-manage-your-code-project) |
-| 25.09.2018    | Tutorial site | 100 | [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)                                            |
-|26.09.2018     | Book          |  200      |  [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)      |
-|     |            |        |                                             |
+|  25.09.2018   | Tutorial site | 100 | [Manage your code with Git and Github](https://openclassrooms.com/en/courses/3321726-manage-your-code-with-git-and-github)                                            |
+|  26.09.2018   | Book          | 200 |  [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)      |
+|  02.10.2018   | Tutorial site | 100 |  [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)                                           |
 |     |            |        |                                             |
 
 
