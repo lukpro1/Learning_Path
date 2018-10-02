@@ -36,7 +36,7 @@ Total Points earned: **700**
 
 
 ### JavaScript
-* [ ] Course: [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
+* [X] Course: [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
 * [ ] Course: [JavaScript-The Hard Parts](https://frontendmasters.com/courses/javascript-hard-parts/)
 * [ ] Course: [The Complete JavaScript Course 2018](https://www.udemy.com/the-complete-javascript-course/)
 * [ ] Course: [Deep JavaScript Foundations](https://frontendmasters.com/courses/javascript-foundations/)
@@ -49,7 +49,7 @@ Total Points earned: **700**
 * [ ] Course: [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 * [ ] Course: [Map out your project with UML](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml)
 * [ ] Course: [Design Your Project with UML](https://openclassrooms.com/en/courses/4191736-design-a-database-with-uml)
-* [ ] Course: [Object Oriented Design](https://www.coursera.org/learn/object-oriented-design/home/welcome)
+* [ ] Course: [Object Oriented Design - University of Alberta](https://www.coursera.org/learn/object-oriented-design/home/welcome)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
