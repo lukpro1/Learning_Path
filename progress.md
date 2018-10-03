@@ -7,7 +7,7 @@ This is my learning tracker which will help for me to get my goals of Web Develo
 ## Progress
 
 Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),
-[**Object Oriented Design - University of Alberta**](https://www.coursera.org/learn/object-oriented-design/home/welcome) 
+[**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/) 
 
 Courses Completed: **3**
 
