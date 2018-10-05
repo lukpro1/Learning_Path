@@ -90,6 +90,7 @@ Total Points earned: **720**
 * [ ] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [ ] Book: [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html) 
 * [ ] Book: [Git Version Control Cookbook by Kenneth Geisshirt](https://www.amazon.com/Git-Version-Control-Cookbook-productivity-ebook/dp/B07DT9DHH4/ref=sr_1_1?ie=UTF8&qid=1538299387&sr=8-1&keywords=Git+Version+Control+Cookbook+by+Kenneth+Geisshirt)
+* [ ] Book: [UML Distilled: A Brief Guide to the Standard Object Modeling Language (3rd Edition)](https://github.com/gcoronelc/PECI-Java-MAR-2015/blob/master/Recursos/UML%20Distilled%203rd%20Ed.pdf)
 
 ### Self-help books
 * [ ] Book: [The Art of Stopping Time : Practical Mindfulness for Busy People](https://www.amazon.com/Art-Stopping-Time-Practical-Mindfulness-ebook/dp/B06Y2NBGFF/ref=sr_1_1?ie=UTF8&qid=1538299356&sr=8-1&keywords=The+Art+of+Stopping+Time+%3A+Practical+Mindfulness+for+Busy+People)
