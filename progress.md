@@ -6,8 +6,9 @@ This is my learning tracker which will help for me to get my goals of Web Develo
 
 ## Progress
 
-Current Course: [**Map out your project with UML**](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml),
-[**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/) 
+Current Course: [**Design Your Project with UML**](https://openclassrooms.com/en/courses/4191736-design-a-database-with-uml),
+[**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/), 
+[**UML Class Diagrams for Software Engineering**](https://www.edx.org/course/uml-class-diagrams-for-software-engineering)
 
 Courses Completed: **3**
 
@@ -15,7 +16,7 @@ Current Book: [**You Don't Know JS: this & Object Prototypes**](https://github.c
 
 Books read: **2**
 
-Total Points earned: **720**
+Total Points earned: **970**
 
 | Date Finished | Activity              | Points | Links/Sources  |           
 | ------------- | ----------------------| ------ | ------------------------------------------- |
@@ -25,6 +26,9 @@ Total Points earned: **720**
 |  26.09.2018   | Book          | 200 |  [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)      |
 |  02.10.2018   | Tutorial site | 100 |  [JavaScript: From Fundamentals to Functional JS, v2](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)                                           |
 |  02.10.2018   |  algorithms  |  20   |  CodinGame (1 Bot Competition)                             |
+|  10.10.2018   |  project  |  150   |  Project 2 at OpenClassrooms                             |
+|  15.10.2018   |  foundation |  100   |  [Map out your project with UML](https://openclassrooms.com/en/courses/4300566-map-out-your-project-with-uml)                            |
+
 
 
 ## OpenClassrooms Front End Path + own resources, Computer Science + own resources 
@@ -53,6 +57,7 @@ Total Points earned: **720**
 * [ ] Course: [Object Oriented Design - University of Alberta](https://www.coursera.org/learn/object-oriented-design/home/welcome)
 * [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 * [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+* [ ] Course: [UML Class Diagrams for Software Engineering](https://www.edx.org/course/uml-class-diagrams-for-software-engineering)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 * [ ] Course: [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
@@ -101,9 +106,9 @@ Additional books can be found [here](https://github.com/P1xt/speedstudy/blob/mas
 
 | Activity                                    | Points for completing | Activity type |
 | ------------------------------------------- | --------------------- | ------------- |
-| OpenClassrooms Project 1-3                  | 100                   | project       |
-| OpenClassrooms Project 4                    | 150                   | project       |
-| OpenClassrooms Project 5                    | 200                   | project       |
+| OpenClassrooms Project 1-3                  | 150                   | project       |
+| OpenClassrooms Project 4                    | 200                   | project       |
+| OpenClassrooms Project 5                    | 250                   | project       |
 | OpenClassrooms Project 6-7-8                | 300                   | project       |
 | Basic Project                               | 100                   | project       |
 | Substantial Project                         | 200                   | project       |
