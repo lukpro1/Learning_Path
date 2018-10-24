@@ -10,7 +10,7 @@ Current Course: [**Design Your Project with UML**](https://openclassrooms.com/en
 [**The Complete JavaScript Course 2018**](https://www.udemy.com/the-complete-javascript-course/), 
 [**UML Class Diagrams for Software Engineering**](https://www.edx.org/course/uml-class-diagrams-for-software-engineering)
 
-Courses Completed: **3**
+Courses Completed: **4**
 
 Current Book: [**You Don't Know JS: this & Object Prototypes**](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
